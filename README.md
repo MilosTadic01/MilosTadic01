@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Milos 👋
+
+I like being creative and helpful. In software I've found an opportunity to be both!
+
+- 🌱 I’m currently finishing a fullstack dev bootcamp and studying SE at [42 Berlin](https://42berlin.de/de/)
+- 🔭 Currently working on integrating DBMS into a Flask-powered web project
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilosTadic01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milo%C5%A1-tadi%C4%87-622750289/)
 
 <!--
 **MilosTadic01/MilosTadic01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
