@@ -1,9 +1,9 @@
 ## Hi there, I'm Milos 👋
 
-I like being creative and helpful. In software I've found an opportunity to be both!
+I'm passionate about trees and time complexity!
 
 - 🌱 I’m currently finishing a fullstack dev bootcamp and studying SE at [42 Berlin](https://42berlin.de/de/)
-- 🔭 Currently working on integrating DBMS into a Flask-powered web project
+- 🔭 Currently working on learning some JavaScript
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilosTadic01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
