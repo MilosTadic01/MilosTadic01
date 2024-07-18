@@ -3,7 +3,7 @@
 I'm passionate about trees and time complexity!
 
 - 🌱 I’m currently finishing a fullstack dev bootcamp and studying SE at [42 Berlin](https://42berlin.de/de/)
-- 🔭 Currently working on learning some JavaScript
+- 🔭 Currently taking a week off to visit a Developers congress and to recharge the batteries for tackling multithreading and C++!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilosTadic01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
