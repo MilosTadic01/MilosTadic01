@@ -2,8 +2,8 @@
 
 I'm passionate about trees and time complexity!
 
-- 🌱 I’m currently finishing an 8-month fullstack bootcamp and continuing my SE studies at [42 Berlin](https://42berlin.de/de/)
-- 🔭 Currently taking a week off to visit a Developers congress and to recharge the batteries for tackling multithreading and C++!
+- 🌱 I’m finishing an 8-month fullstack bootcamp and continuing my SE studies at [42 Berlin](https://42berlin.de/de/)
+- 🔭 Currently learning about multithreading hands-on, through solving the Dining Philosophers Problem!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilosTadic01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
