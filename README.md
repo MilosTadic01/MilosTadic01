@@ -1,6 +1,6 @@
 ## Hi there, I'm Milos 👋
 
-I'm passionate about trees and time complexity!
+I'm interested in trees and time complexity!
 
 - 🌱 I’m finishing an 8-month fullstack bootcamp and continuing my SE studies at [42 Berlin](https://42berlin.de/de/)
 - 🔭 Currently learning about raycasting hands-on, by teaming up for creation of a "3D" game using MiniLibX!
