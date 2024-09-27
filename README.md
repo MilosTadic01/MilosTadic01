@@ -3,7 +3,8 @@
 I'm enthusiastic about trees and time complexity!
 
 - 🌱 I’m finishing an 8-month fullstack bootcamp and continuing my SE studies at [42 Berlin](https://42berlin.de/de/)
-- 🔭 Currently learning about raycasting hands-on, by teaming up for creation of a "3D" game using MiniLibX!
+- 🔭 Finalizing a hands-on raycasting project, having teamed up for creation of a "3D" game using MiniLibX!
+- 🔭 Starting to work on a chatbot project featuring the leveraging of retrieval-augmented generation
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilosTadic01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
